@@ -80,4 +80,4 @@ Kamu bisa menjadikan berkas PDF di repositori ini (`Cormen`, `CP Handbook`, atau
 
 ## GLHF
 
-![GLHF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFlcXZ0eWdtMTRpenVzaTJhbzbBkaTFnNTB6a2pvY3BxY3ZiNXhhNyZlcD12MV9pbnRlcm5hbF9naWZfbmFwZWFnYQmY3Q9Zw/nTXNuQoxJXiRdQieb7/giphy.gif)
+![GLHF](<img width="384" height="480" alt="glhf" src="https://github.com/user-attachments/assets/0788df93-330b-4d88-9bb8-2f96488a687d" />)
