@@ -71,13 +71,13 @@ Kamu bisa menjadikan berkas PDF di repositori ini (`Cormen`, `CP Handbook`, atau
 ## Media & Demo
 
 ### Train Gemini
-<video src="https://github.com/user-attachments/assets/3c5edd21-81d8-4b26-8174-90ba4446a7f2"></video>
+<video src="https://github.com/user-attachments/assets/3c5edd21-81d8-4b26-8174-90ba4446a7f2" controls></video>
 
 ### Gemini Notebook
-<video src="https://github.com/user-attachments/assets/4464485a-f112-4b07-81f5-95b3782464fd"></video>
+<video src="https://github.com/user-attachments/assets/4464485a-f112-4b07-81f5-95b3782464fd" controls></video>
 
 ---
 
 ## GLHF
 
-![GLHF](<img width="384" height="480" alt="glhf" src="https://github.com/user-attachments/assets/0788df93-330b-4d88-9bb8-2f96488a687d" />)
+![GLHF] <img width="384" height="480" alt="glhf" src="https://github.com/user-attachments/assets/0788df93-330b-4d88-9bb8-2f96488a687d"/>
