@@ -72,11 +72,15 @@ Kamu bisa menjadikan berkas PDF di repositori ini (`Cormen`, `CP Handbook`, atau
 
 ### Train Gemini
 
-https://github.com/user-attachments/assets/3c5edd21-81d8-4b26-8174-90ba4446a7f2
+
+https://github.com/user-attachments/assets/defd2a08-0388-4320-b59a-afc7ec7799a5
+
 
 ### Gemini Notebook
 
-https://github.com/user-attachments/assets/4464485a-f112-4b07-81f5-95b3782464fd
+
+https://github.com/user-attachments/assets/2f919d75-8411-4f2c-98cf-a0efb8d9a5fa
+
 
 ---
 
