@@ -29,7 +29,7 @@ Berikut adalah rincian folder dan berkas yang ada di dalam repositori ini:
 ## Silabus & Platform Latihan
 
 ### Silabus Resmi
-* **[Silabus & Kurikulum TOKI](https://tlx.toki.id/)**: Acuan resmi materi yang diujikan dalam OSN Informatika.
+* **[Silabus & Kurikulum TOKI](https://osn.toki.id/silabus)**: Acuan resmi materi yang diujikan dalam OSN Informatika.
 
 ### Platform Competitive Programming (CP)
 1. **[TLX TOKI](https://tlx.toki.id/)**: Platform utama latihan soal standar OSN Indonesia.
