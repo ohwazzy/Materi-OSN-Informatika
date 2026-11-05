@@ -1,5 +1,6 @@
 # Materi OSN Informatika
 
+Halo Semuanya Wazzy Is Here!
 Kumpulan materi, bank soal, buku referensi, dan sumber belajar untuk persiapan Olimpiade Sains Nasional (OSN) bidang Informatika.
 
 ---
@@ -21,7 +22,6 @@ Berikut adalah rincian folder dan berkas yang ada di dalam repositori ini:
 * **Competitive Programmer's Handbook.pdf**: Panduan pemrograman kompetitif karya Antti Laaksonen.
 * **Cormen Introduction to Algorithms.pdf**: Buku referensi utama algoritma dan struktur data (*CLRS*).
 * **Pemrograman Kompetitif Dasar.pdf**: Buku panduan resmi dari TOKI untuk dasar-dasar pemrograman kompetitif.
-* **SOAL SELEKSI OSN-S.docx**: Berkas latihan dan draf soal untuk seleksi tingkat sekolah.
 * **prompt-indo.md**: Berkas *prompt* Bahasa Indonesia yang siap digunakan untuk melatih AI Agent pribadi.
 
 ---
