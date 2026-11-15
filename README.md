@@ -17,44 +17,47 @@ Bagi yang kesulitan atau tidak terbiasa mengunduh berkas satu per satu di GitHub
 
 Berikut adalah rincian folder dan berkas yang ada di dalam repositori ini:
 
-* **Soal OSN 2015-2026/**: Arsip soal-soal OSN tingkat kabupaten, provinsi, hingga nasional dari tahun-tahun sebelumnya.
-* **pptx/**: Slide presentasi pembahasan materi dasar dan konsep dasar pemrograman/logika.
-* **Competitive Programmer's Handbook.pdf**: Panduan pemrograman kompetitif karya Antti Laaksonen.
-* **Cormen Introduction to Algorithms.pdf**: Buku referensi utama algoritma dan struktur data (*CLRS*).
-* **Pemrograman Kompetitif Dasar.pdf**: Buku panduan resmi dari TOKI untuk dasar-dasar pemrograman kompetitif.
-* **prompt-indo.md**: Berkas *prompt* Bahasa Indonesia yang siap digunakan untuk melatih AI Agent pribadi.
+- **oss-archive/**: Arsip soal-soal seleksi sekolah.
+- **soal-osn-archive/**: Arsip soal-soal OSN tingkat kabupaten, provinsi, hingga nasional dari tahun-tahun sebelumnya.
+- **pptx/**: Slide presentasi pembahasan materi dasar dan konsep dasar pemrograman/logika.
+- **Competitive Programmer's Handbook.pdf**: Panduan pemrograman kompetitif karya Antti Laaksonen.
+- **Cormen Introduction to Algorithms.pdf**: Buku referensi utama algoritma dan struktur data (_CLRS_).
+- **Pemrograman Kompetitif Dasar.pdf**: Buku panduan resmi dari TOKI untuk dasar-dasar pemrograman kompetitif.
+- **prompt-indo.md**: Berkas _prompt_ Bahasa Indonesia yang siap digunakan untuk melatih AI Agent pribadi.
 
 ---
 
 ## Silabus & Platform Latihan
 
 ### Silabus Resmi
-* **[Silabus & Kurikulum TOKI](https://osn.toki.id/silabus)**: Acuan resmi materi yang diujikan dalam OSN Informatika.
+
+- **[Silabus & Kurikulum TOKI](https://osn.toki.id/silabus)**: Acuan resmi materi yang diujikan dalam OSN Informatika.
 
 ### Platform Competitive Programming (CP)
+
 1. **[TLX TOKI](https://tlx.toki.id/)**: Platform utama latihan soal standar OSN Indonesia.
-2. **[Codeforces](https://codeforces.com/)**: Platform kontes CP internasional untuk melatih kecepatan dan *problem solving*.
+2. **[Codeforces](https://codeforces.com/)**: Platform kontes CP internasional untuk melatih kecepatan dan _problem solving_.
 3. **[LeetCode](https://leetcode.com/)**: Tempat latihan algoritma dan struktur data berbasis topik.
 
 ---
 
 ## Rekomendasi Video Belajar
 
-* **[Playlist Matematika Diskrit](https://www.youtube.com/watch?v=rodLPAHbHNg&list=PLyYkJZR4un3pMu_kUSlzPQwi49dSRpUbb&pp=0gcJCWQDOCosWNin)**
-* **[Playlist Algoritma & Struktur Data](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)**
-* **[Pengenalan Sistem Biner & Hexadecimal](https://www.youtube.com/watch?v=FFDMzbrEXaE)**
-* **[Mathematics for Computer Science (Intro)](https://www.youtube.com/watch?v=mzw3P3np_pc)**
-* **[Logic Gate / Gerbang Logika](https://www.youtube.com/watch?v=JQBRzsPhw2w&t=2888s)**
+- **[Playlist Matematika Diskrit](https://www.youtube.com/watch?v=rodLPAHbHNg&list=PLyYkJZR4un3pMu_kUSlzPQwi49dSRpUbb&pp=0gcJCWQDOCosWNin)**
+- **[Playlist Algoritma & Struktur Data](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)**
+- **[Pengenalan Sistem Biner & Hexadecimal](https://www.youtube.com/watch?v=FFDMzbrEXaE)**
+- **[Mathematics for Computer Science (Intro)](https://www.youtube.com/watch?v=mzw3P3np_pc)**
+- **[Logic Gate / Gerbang Logika](https://www.youtube.com/watch?v=JQBRzsPhw2w&t=2888s)**
 
 ---
 
 ## Tools Tempur Belajar
 
-* **Code Editor**: VS Code atau Vim.
-* **Audio**: YouTube Music (no music no party).
-* **Media Fisik**: Buku catatan / *Notebook* untuk corat-coret.
-* **AI Assistant**: Gemini, ChatGPT, Claude, Gemini Notebook.
-* **Media Belajar Visual**: YouTube.
+- **Code Editor**: VS Code atau Vim.
+- **Audio**: YouTube Music (no music no party).
+- **Media Fisik**: Buku catatan / _Notebook_ untuk corat-coret.
+- **AI Assistant**: Gemini, ChatGPT, Claude, Gemini Notebook.
+- **Media Belajar Visual**: YouTube.
 
 ---
 
@@ -72,17 +75,14 @@ Kamu bisa menjadikan berkas PDF di repositori ini (`Cormen`, `CP Handbook`, atau
 
 ### Train Gemini
 
-
 https://github.com/user-attachments/assets/defd2a08-0388-4320-b59a-afc7ec7799a5
-
 
 ### Gemini Notebook
 
-
 https://github.com/user-attachments/assets/2f919d75-8411-4f2c-98cf-a0efb8d9a5fa
-
 
 ---
 
 ## GLHF
+
 <img width="384" height="480" alt="glhf" src="https://github.com/user-attachments/assets/0788df93-330b-4d88-9bb8-2f96488a687d"/>
